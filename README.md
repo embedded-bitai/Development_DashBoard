@@ -10,8 +10,8 @@ Development Dash Board
 [![devmrko's github stats](https://github-readme-stats.vercel.app/api?username=devmrko)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmrko)](https://github.com/embedded-bitai/Mercenary)
 
-[![devmrko's github stats](https://github-readme-stats.vercel.app/api?username=parkjungkwan)](https://github.com/embedded-bitai/Mercenary)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjungkwan)](https://github.com/embedded-bitai/Mercenary)
+[![rickyhwang's github stats](https://github-readme-stats.vercel.app/api?username=rickyhwang)](https://github.com/embedded-bitai/Mercenary)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyhwang)](https://github.com/embedded-bitai/Mercenary)
 
 [![BokyungJeon's github stats](https://github-readme-stats.vercel.app/api?username=BokyungJeon)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BokyungJeon)](https://github.com/embedded-bitai/Mercenary)
