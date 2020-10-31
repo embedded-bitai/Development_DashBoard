@@ -73,8 +73,8 @@ Development Dash Board
 [![wooyoung627's github stats](https://github-readme-stats.vercel.app/api?username=wooyoung627)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooyoung627)](https://github.com/embedded-bitai/Mercenary)
 
-[![youje0ng's github stats](https://github-readme-stats.vercel.app/api?username=youje0ng)](https://github.com/embedded-bitai/Mercenary)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youje0ng)](https://github.com/embedded-bitai/Mercenary)
+[![youjeong2's github stats](https://github-readme-stats.vercel.app/api?username=youjeong2)](https://github.com/embedded-bitai/Mercenary)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youjeong2)](https://github.com/embedded-bitai/Mercenary)
 
 # How to find account with e-mail address  
 
