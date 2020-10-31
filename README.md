@@ -55,6 +55,9 @@ Development Dash Board
 [![SGKwon95's github stats](https://github-readme-stats.vercel.app/api?username=SGKwon95)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SGKwon95)](https://github.com/embedded-bitai/Mercenary)
 
+[![soominok's github stats](https://github-readme-stats.vercel.app/api?username=soominok)](https://github.com/embedded-bitai/Mercenary)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soominok)](https://github.com/embedded-bitai/Mercenary)
+
 # How to find account with e-mail address  
 
 ```make
