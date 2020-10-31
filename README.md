@@ -7,5 +7,14 @@ Development Dash Board
 [![parkjungkwan's github stats](https://github-readme-stats.vercel.app/api?username=parkjungkwan)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjungkwan)](https://github.com/embedded-bitai/Mercenary)
 
+[![devmrko's github stats](https://github-readme-stats.vercel.app/api?username=parkjungkwan)](https://github.com/embedded-bitai/Mercenary)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjungkwan)](https://github.com/embedded-bitai/Mercenary)
+
 [![BokyungJeon's github stats](https://github-readme-stats.vercel.app/api?username=BokyungJeon)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BokyungJeon)](https://github.com/embedded-bitai/Mercenary)
+
+# How to find account with e-mail address  
+
+```make
+https://api.github.com/search/users?q=devmrko@gmail.com
+```
