@@ -40,6 +40,9 @@ Development Dash Board
 [![joalvis777's github stats](https://github-readme-stats.vercel.app/api?username=joalvis777)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joalvis777)](https://github.com/embedded-bitai/Mercenary)
 
+[![jumib's github stats](https://github-readme-stats.vercel.app/api?username=jumib)](https://github.com/embedded-bitai/Mercenary)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumib)](https://github.com/embedded-bitai/Mercenary)
+
 # How to find account with e-mail address  
 
 ```make
