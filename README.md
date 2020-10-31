@@ -24,6 +24,9 @@ Development Dash Board
 [![BokyungJeon's github stats](https://github-readme-stats.vercel.app/api?username=BokyungJeon)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BokyungJeon)](https://github.com/embedded-bitai/Mercenary)
 
+[![byungJ's github stats](https://github-readme-stats.vercel.app/api?username=byungJ)](https://github.com/embedded-bitai/Mercenary)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byungJ)](https://github.com/embedded-bitai/Mercenary)
+
 # How to find account with e-mail address  
 
 ```make
