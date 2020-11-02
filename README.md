@@ -1,13 +1,13 @@
 # Development_DashBoard
 Development Dash Board
 
-#Contributors
+# Contributors
 
-##Instructor
+## Instructor
 [![Sanghoon's github stats](https://github-readme-stats.vercel.app/api?username=silenc3502&theme=react&show_icons=true)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silenc3502)](https://github.com/embedded-bitai/Mercenary)
 
-##Mentors
+## Mentors
 [![parkjungkwan's github stats](https://github-readme-stats.vercel.app/api?username=parkjungkwan&theme=react&show_icons=true)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjungkwan)](https://github.com/embedded-bitai/Mercenary)
 
@@ -23,7 +23,7 @@ Development Dash Board
 [![jjoteacher123's github stats](https://github-readme-stats.vercel.app/api?username=honghyuncho&theme=react&show_icons=true)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honghyuncho)](https://github.com/embedded-bitai/Mercenary)
 
-##Students
+## Students
 [![BokyungJeon's github stats](https://github-readme-stats.vercel.app/api?username=BokyungJeon&theme=react&show_icons=true)](https://github.com/embedded-bitai/Mercenary)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BokyungJeon)](https://github.com/embedded-bitai/Mercenary)
 
